@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+#poppins{
+    font-family: poppins;
+}
+
+.active{
+    @apply  text-blue-400;
+}
+
+.footer{
+    background-color: #344656;
+}
